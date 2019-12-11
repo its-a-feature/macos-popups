@@ -4,7 +4,7 @@ This repo serves as a collection of Red Team techniques and administrative tasks
 
 All scenarios consider a basic macOS host with userA, userB, and root users.
 
-When testing, you can reset the permissions back to default with `tccutil reset All` or you can specify a specific service. All TCC information for the current user is saved in an sqlite database located at `~/Library/Application Support/com.apple.TCC/TCC.db`. You cannot 
+When testing, you can reset the permissions back to default with `tccutil reset All` or you can specify a specific service. All TCC information for the current user is saved in an sqlite database located at `~/Library/Application Support/com.apple.TCC/TCC.db`. 
 
 # Table of Contents
 - [macOS Mojave (10.14)](#macos-mojave)
