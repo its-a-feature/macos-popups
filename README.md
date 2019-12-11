@@ -2,6 +2,16 @@
 
 This repo serves as a collection of Red Team techniques and administrative tasks for various macOS versions that cause popups, what those popups look like, what permissions are being requested, where they're stored, and hopefully how to check for them before causing popups.
 
-## Table of Contents
-- macOS Mojave (10.14.5)
-- macOS Catalina (10.15.2)
+# Table of Contents
+- [macOS Mojave (10.14)](macos-mojave-(10.14))
+  - [InterProcess Apple Events](interprocess-apple-events)
+- [macOS Catalina (10.15)](macos-catalina(10.15))
+  - [File Accesses](file-accesses)
+
+## macOS Mojave (10.14)
+
+### InterProcess Apple Events
+
+## macOS Catalina (10.15)
+
+### File Accesses
